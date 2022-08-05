@@ -1,0 +1,20 @@
+section > h1 {
+	text-align: center;
+	font-family: Arial, Calibri, sans-serif;
+}
+
+section p {
+	padding: 10px;
+	font-family: Arial, Calibri, sans-serif;
+	line-height: 1.5em;
+}
+
+.fig1 {
+	float: right;
+	text-align: center;
+}
+
+.image {
+	width: 300px;
+	height: 200px;
+}

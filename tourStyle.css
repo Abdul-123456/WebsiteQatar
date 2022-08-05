@@ -1,0 +1,10 @@
+.places {
+	display: flex;
+	flex-flow: row wrap;
+}
+
+.places img {
+	flex: 1 1 auto;
+	width: 450px;
+	height: 450px;
+}

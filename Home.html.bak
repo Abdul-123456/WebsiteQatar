@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Welcome to Qatar</title>
+		<link href="qatarStyle.css" rel="stylesheet">
+	</head>
+	<body>
+		<header>
+			<div id="welcome">
+			</div>
+			<nav>
+				<div><a href="Home.html" class="links">Home</a></div>
+				<div><a href="#" class="links">Tour Qatar</a></div>
+				<div><a href="#" class="links">Study in Qatar</a></div>
+				<div><a href="#" class="links">Work in Qatar</a></div>
+				<div><a href="#" class="links">Credits</a></div>
+			</nav>
+		</header>
+		<div class="wrap">
+			<aside>
+				<ul>
+					<li class="submenuTitle">News
+						<ul>
+							<li><a href="#" class="links">news</a></li>
+							<li><a href="#" class="links">news</a></li>
+							<li><a href="#" class="links">news</a></li>
+							<li><a href="#" class="links">news</a></li>
+							<li><a href="#" class="links">news</a></li>
+							<li><a href="#" class="links">news</a></li>
+							<li><a href="#" class="links">news</a></li>
+							<li><a href="#" class="links">news</a></li>
+							<li><a href="#" class="links">news</a></li>
+						</ul>
+					</li><br>
+					<li class="submenuTitle">Sports
+					<ul>
+						<li><a href="#" class="links">news</a></li>
+						<li><a href="#" class="links">news</a></li>
+						<li><a href="#" class="links">news</a></li>
+						<li><a href="#" class="links">news</a></li>
+						<li><a href="#" class="links">news</a></li>
+					</ul></li>
+				</ul>
+			</aside>
+			<section>
+				<h1>Welcome to Qatar</h1>
+				<figure class= "fig1"><img src="emir.jpg"  class="image" alt=""><figcaption><em>Emir Of Qatar: Sheikh Tamim Al Thani</em></figcaption></figure>
+				<p>Occupying a small desert peninsula that extends northward from the larger Arabian Peninsula, 
+				it has been continuously but sparsely inhabited since prehistoric times. Following the rise of Islam, 
+				the region became subject to the Islamic caliphate; it later was ruled by a number of local and foreign 
+				dynasties before falling under the control of the Thani dynasty (Āl Thānī) in the 19th century. The Thani 
+				dynasty sought British patronage against competing tribal groups and against the Ottoman Empire—which 
+				occupied the country in the late 19th and early 20th centuries—and in exchange the United Kingdom controlled 
+				Qatar’s foreign policy until the latter’s independence in 1971. Thereafter the monarchy continued to nurture 
+				close ties with Western powers as a central pillar of its national security. Qatar has one of the world’s largest 
+				reserves of petroleum and natural gas and employs large numbers of foreign workers in its production process. 
+				Because of its oil wealth, the country’s residents enjoy a high standard of living and a well-established system of 
+				social services.</p>
+				<p>Slightly smaller in area than the U.S. state of Connecticut, the Qatar peninsula is about 100 miles 
+				(160 km) from north to south, 50 miles (80 km) from east to west, and is generally rectangular in shape. The national
+				 animal of Qatar is Oryx. Camels can also very common in Qatar, they usually are freely roaming in the desert.</p>
+				
+				<p>Most of Qatar’s area is flat, low-lying desert, which rises from the east to a central limestone 
+				plateau. Sand dunes and salt flats, or sabkhahs, are the chief topographical features of the southern 
+				and southeastern sectors. Qatar has more than 350 miles (560 km) of coastline; its border with Saudi 
+				Arabia is some 37 miles (60 km) long. There are no permanent bodies of fresh water.</p>
+				<figure class= "fig1"><img src="oryx.jpg"  class="image" alt=""><figcaption><em>Oryx</em></figcaption></figure>
+				<p>The climate is hot and humid from June to September, with daytime temperatures as high as 122 °F (50 °C). 
+				The spring and fall months—April, May, October, and November—are temperate, averaging about 63 °F (17 °C), 
+				and the winters are slightly cooler. Precipitation is scarce, with less than 3 inches (75 mm) falling 
+				annually (generally in winter).</p>
+				<figure class= "fig1"><img src="camel.jpg"  class="image" alt=""><figcaption><em>Camel in Al Shamal Qatar</em></figcaption></figure>
+				<p>Qatari citizens constitute only a small portion—roughly one-ninth—of the total population 
+				today. Economic growth beginning in the 1970s created an economy dependent on foreign 
+				workers—mostly from Pakistan, India, and Iran—who now far outnumber nationals.</p>
+				<p>Qatar’s economic prosperity is derived from the extraction and export of petroleum—discovered 
+				in 1939 and first produced in 1949—and natural gas. Before World War II Qatar’s population engaged in 
+				pearling, fishing, and some trade (with little exception the only occupations available) and was one of
+				the poorest in the world. By the 1970s, however, native Qataris enjoyed one of the highest per capita incomes in the world.</p>
+				<p>Health care and medical services are provided free to all residents through government programs.</p>
+			</section>
+		</div>
+	</body>
+</html>
